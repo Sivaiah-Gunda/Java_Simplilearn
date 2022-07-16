@@ -1,0 +1,34 @@
+git status
+
+git add .
+
+git commit -m "new commit"
+
+git remote add origin https://github.com/Sivaiah-Gunda/Java_Simplilearn.git
+
+git branch -M main
+
+git push -u origin main
+
+https://drive.google.com/drive/folders/1nRJ0OmKg4d1EtO6dl_DIwof6kq01dXIS
+https://github.com/meganadh/JavaFSD_MarApr2022_Batch
+https://community.simplilearn.com/threads/phase-1-implement-oops-using-java-with-data-structures-and-beyond-trainer-meganadha-reddy-march-26-april-23.71512/
+
+https://github.com/meganadh/JavaFSD_MarApr2022_Batch
+
+https://drive.google.com/drive/folders/1nRJ0OmKg4d1EtO6dl_DIwof6kq01dXIS
+
+https://community.simplilearn.com/threads/phase-1-implement-oops-using-java-with-data-structures-and-beyond-trainer-meganadha-reddy-march-26-april-23.71512/
+
+https://jar-download.com/?search_box=mysql-connector-java-8.0.21
+https://docs.oracle.com/javase/8/docs/api/
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+https://tomcat.apache.org/download-80.cgi
+https://drive.google.com/drive/folders/157iBmz5WvW4o08b22w5wX81eHjuQ00eb?usp=sharing
+
+Code flow: Code visualizer
+
+Lab Details:
+User Name: gisva1224gmail
+Host: 54.236.19.188
+Password: 4gmail0A@bq6nn
