@@ -1,0 +1,24 @@
+https://jar-download.com/?search_box=mysql-connector-java-8.0.21
+https://docs.oracle.com/javase/8/docs/api/
+
+https://www.sqlshack.com/how-to-install-mysql-database-server-8-0-19-on-windows-10/
+
+https://drive.google.com/drive/folders/157iBmz5WvW4o08b22w5wX81eHjuQ00eb?usp=sharing
+
+https://vertabelo.com/blog/many-to-many-relationship/
+
+https://erdplus.com/
+
+Phase 3:
+https://github.com/sonam-niit/Weekend-Phase3/blob/main/Notes/Sprorty%20Shoes%20Assessment.docx
+
+https://www.bezkoder.com/jpa-one-to-many/
+
+https://www.appsdeveloperblog.com/many-to-many-relationship-in-spring-boot-rest-jpa/
+
+https://www.baeldung.com/spring-data-jpa-query-by-date
+
+
+https://community.simplilearn.com/threads/phase-3-implement-frameworks-the-devops-way-sonam-soni-july2022.73716/
+from Sonam Soni to All Participants:
+https://lms.simplilearn.com/nps/session/62221e3fd69ade702623b6da
