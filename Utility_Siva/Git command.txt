@@ -29,6 +29,9 @@ https://drive.google.com/drive/folders/157iBmz5WvW4o08b22w5wX81eHjuQ00eb?usp=sha
 Frontend:
 https://drive.google.com/file/d/1iBmYQ4achT0g0dcA7P9EMBp903fljYfz/view?usp=sharing
 
+npm install -g @angular/cli
+ng version
+
 Code flow: Code visualizer
 
 https://github.com/Thaneshwara848/SL-WebApp_Demo.git
