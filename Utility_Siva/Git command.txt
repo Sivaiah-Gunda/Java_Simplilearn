@@ -32,6 +32,8 @@ https://drive.google.com/file/d/1iBmYQ4achT0g0dcA7P9EMBp903fljYfz/view?usp=shari
 npm install -g @angular/cli
 ng version
 
+ng new Demo
+
 Code flow: Code visualizer
 
 https://github.com/Thaneshwara848/SL-WebApp_Demo.git
