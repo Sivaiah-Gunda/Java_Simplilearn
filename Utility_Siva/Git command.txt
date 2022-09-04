@@ -33,6 +33,8 @@ https://docs.google.com/document/d/1O2TgD-63e3yCuRWLzdQwhS1YfRvUQkod/edit?usp=sh
 
 https://github.com/Thaneshwara848/spacex1.git
 
+https://angular.io/
+
 
 https://thaneshwara848.github.io/ThaneshSapientCode/flights
 
