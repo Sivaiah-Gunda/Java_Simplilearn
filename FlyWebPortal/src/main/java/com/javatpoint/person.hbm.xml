@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 5.3//EN"
+		"http://hibernate.sourceforge.net/hibernate-configuration-5.3.dtd">
+<hibernate-mapping>
+	<class name="com.hibernate.mvc.dto.Person" table="persondata">
+		<id name="Id" column="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="name" column="name"></property>
+		<property name="address" column="address"></property>
+		<property name="emailId" column="email"></property>
+		<property name="phone" column="phone"></property>
+		<component name="account" class="com.hibernate.mvc.dto.Account">
+			<property name="acc_id" column="acc_id"></property>
+			<property name="password" column="password"></property>
+			<property name="account_type" column="account_type"></property>
+		</component>
+	</class>
+</hibernate-mapping>
